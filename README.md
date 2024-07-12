@@ -1,5 +1,6 @@
 **Eksperymentalny obraz FM POLAND Orange PI Zero v1.x**
 
+**To jest projekt hobbystyczny i rozwija się w autora własnym tempie.**
 
 Obraz przeznaczony do budowy hotspota domowego z wykorzystaniem modułu radiowego SA818
 
