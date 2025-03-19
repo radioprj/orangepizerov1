@@ -1,4 +1,4 @@
-**Eksperymentalny obraz FM POLAND Orange PI Zero v1.x**
+**Eksperymentalny obraz hotspot FM Orange PI Zero v1.x**
 
 **To jest projekt hobbystyczny i rozwija się w autora własnym tempie.**
 
