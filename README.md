@@ -4,7 +4,7 @@
 
 Obraz przeznaczony do budowy hotspota domowego z wykorzystaniem modułu radiowego SA818
 
-Obraz o nazwie [hotspotfm-ozpi.img.xz](https://github.com/radioprj/orangepizerov1/releases/download/1.0/hotspotfm-ozpi.img.xz) (jest do pobrania jest na końcu tej strony) nagrać na kartę microSD  przy pomocy: https://etcher.balena.io/
+Obraz o nazwie [hotspotfm-ozpi.img.xz](https://github.com/radioprj/orangepizerov1/releases/download/1.0/hotspotfm-ozpi.img.xz) nagrać na kartę microSD  przy pomocy: https://etcher.balena.io/
 
 Jeśli masz problem zapisać skompresowany obraz .xz na kartę microSD możesz go dekompresować darmowym narzędziem [7-zip](http://www.e7z.org/free-download.htm) Rozpakowany obraz możesz też zapisać na kartę microSD programem [Win32Image](https://sourceforge.net/projects/win32diskimager/files/Archive/)
 
